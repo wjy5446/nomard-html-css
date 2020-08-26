@@ -3,7 +3,7 @@
 
 | assignment 4 | assignment 6 | assignment 7 | assignment 8
 | :-- | :-- | :-- | :-- 
-| ![](image/assignment-4.png) | ![](image/assignment-6.png) | ![](image/assignment-7.png)| ![](image/assignment-8.png)
+| <img src="image/assignment-4.png" height="100" /> | <img src="image/assignment-6.png" height="100" /> | <img src="image/assignment-7.png" height="100" /> | <img src="image/assignment-8.png" height="100" />
 
 ## assignment 9
 
