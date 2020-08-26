@@ -1,20 +1,9 @@
 # nomard-html-css
 
-## assignment 4
 
-![](image/assignment-4.png)
-
-## assignment 6
-
-![](image/assignment-6.png)
-
-## assignment 7
-
-![](image/assignment-7.png)
-
-## assignment 8
-
-![](image/assignment-8.png)
+| assignment 4 | assignment 6 | assignment 7 | assignment 8
+| :-- | :-- | :-- | :-- 
+| ![](image/assignment-4.png) | ![](image/assignment-6.png) | ![](image/assignment-7.png)| ![](image/assignment-8.png)
 
 ## assignment 9
 
